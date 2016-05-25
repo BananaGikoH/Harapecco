@@ -53,7 +53,6 @@ public class RootFrame extends JFrame
 		contentPane.add(splitpanel,BorderLayout.CENTER);
 
 		JPanel InfoPanel = new JPanel();
-
 		InfoPanel.setMinimumSize(new Dimension(0,0));
 
 		JPanel ActivePanel = new JPanel();
